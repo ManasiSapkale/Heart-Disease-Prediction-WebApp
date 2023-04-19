@@ -1,0 +1,8 @@
+install sreamlit,sklearn,streamlit-option-menu,etc library
+create 1 folder Heart Disease Prediction 
+create colab prediction code and add csv file
+after that save heart-model
+then create spyder code and add csv file and heart-model
+then save all in folder
+open anaconda enviroment in base root create machinelearning and open there terminal and give streamlit run command
+now our project run
